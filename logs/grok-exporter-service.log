@@ -1,0 +1,33 @@
+Nov 08 05:10:50 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 05:10:50 Tomal grok-exporter.grok-exporter[2311]: Starting server on http://localhost:9144/metrics
+Nov 08 05:10:50 Tomal grok-exporter.grok-exporter[2311]: Error reading log lines: Failed to initialize file system watcher for /var/log/syslog: open /var/log/syslog: permission denied
+Nov 08 05:10:50 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Main process exited, code=exited, status=255/EXCEPTION
+Nov 08 05:10:50 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Scheduled restart job, restart counter is at 1.
+Nov 08 05:10:51 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 05:10:51 Tomal grok-exporter.grok-exporter[2492]: Starting server on http://localhost:9144/metrics
+Nov 08 05:10:51 Tomal grok-exporter.grok-exporter[2492]: Error reading log lines: Failed to initialize file system watcher for /var/log/syslog: open /var/log/syslog: permission denied
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Main process exited, code=exited, status=255/EXCEPTION
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Scheduled restart job, restart counter is at 2.
+Nov 08 05:10:51 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 05:10:51 Tomal grok-exporter.grok-exporter[2565]: Starting server on http://localhost:9144/metrics
+Nov 08 05:10:51 Tomal grok-exporter.grok-exporter[2565]: Error reading log lines: Failed to initialize file system watcher for /var/log/syslog: open /var/log/syslog: permission denied
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Main process exited, code=exited, status=255/EXCEPTION
+Nov 08 05:10:51 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Scheduled restart job, restart counter is at 3.
+Nov 08 05:10:52 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 05:10:52 Tomal grok-exporter.grok-exporter[2605]: Starting server on http://localhost:9144/metrics
+Nov 08 05:10:52 Tomal grok-exporter.grok-exporter[2605]: Error reading log lines: Failed to initialize file system watcher for /var/log/syslog: open /var/log/syslog: permission denied
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Main process exited, code=exited, status=255/EXCEPTION
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Scheduled restart job, restart counter is at 4.
+Nov 08 05:10:52 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 05:10:52 Tomal grok-exporter.grok-exporter[2652]: Starting server on http://localhost:9144/metrics
+Nov 08 05:10:52 Tomal grok-exporter.grok-exporter[2652]: Error reading log lines: Failed to initialize file system watcher for /var/log/syslog: open /var/log/syslog: permission denied
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Main process exited, code=exited, status=255/EXCEPTION
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Scheduled restart job, restart counter is at 5.
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Start request repeated too quickly.
+Nov 08 05:10:52 Tomal systemd[1]: snap.grok-exporter.grok-exporter.service: Failed with result 'exit-code'.
+Nov 08 05:10:52 Tomal systemd[1]: Failed to start snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.

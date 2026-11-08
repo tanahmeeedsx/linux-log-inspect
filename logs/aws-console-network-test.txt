@@ -1,0 +1,23 @@
+# AWS Console Network Troubleshooting
+
+Date: 2026-11-08
+Browser: Google Chrome
+Network: mahfuz_5G (5 GHz Wi-Fi)
+
+## Terminal Test
+Endpoint: https://us-west-2.signin.aws.amazon.com/
+HTTP Status: 200
+Redirects: 1
+DNS Lookup: 0.055126 seconds
+TCP Connect: 0.456917 seconds
+TLS Handshake: 1.466160 seconds
+Total Time: 3.271584 seconds
+
+## Browser Troubleshooting
+Action: Cleared Chrome Host Resolver Cache.
+Result: AWS Console loading improved slightly.
+Status: Partially improved; issue not fully resolved.
+
+## Conclusion
+AWS endpoint is reachable over IPv4.
+Further browser/network investigation may be required.

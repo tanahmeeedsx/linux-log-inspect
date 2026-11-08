@@ -1,0 +1,8 @@
+2026-11-08T06:15:28.858570+06:00 Tomal sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tanjim-ahmed-tomal(uid=1000)
+2026-11-08T06:15:28.864994+06:00 Tomal sudo: tanjim-ahmed-tomal : TTY=/dev/pts/1 ; PWD=/home/tanjim-ahmed-tomal/Workspace/linux-log-inspect ; USER=root ; COMMAND=/usr/bin/apt remove gnome-terminal gnome-terminal-data
+2026-11-08T06:15:36.062557+06:00 Tomal sudo: pam_unix(sudo:session): session closed for user root
+2026-11-08T06:59:23.978650+06:00 Tomal sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tanjim-ahmed-tomal(uid=1000)
+2026-11-08T06:59:23.984981+06:00 Tomal sudo: tanjim-ahmed-tomal : TTY=/dev/pts/0 ; PWD=/home/tanjim-ahmed-tomal/Workspace/linux-log-inspect ; USER=root ; COMMAND=/usr/bin/grep -iE failed password|invalid user|authentication failure|accepted password|accepted publickey|sudo: /var/log/auth.log
+2026-11-08T06:59:23.985074+06:00 Tomal sudo: pam_unix(sudo:session): session closed for user root
+2026-11-08T07:00:19.053855+06:00 Tomal sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tanjim-ahmed-tomal(uid=1000)
+2026-11-08T07:00:19.054080+06:00 Tomal sudo: tanjim-ahmed-tomal : TTY=/dev/pts/0 ; PWD=/home/tanjim-ahmed-tomal/Workspace/linux-log-inspect ; USER=root ; COMMAND=/usr/bin/grep -iE failed password|invalid user|authentication failure|accepted password|accepted publickey|sudo: /var/log/auth.log

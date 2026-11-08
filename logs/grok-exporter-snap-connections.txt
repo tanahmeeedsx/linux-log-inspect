@@ -1,0 +1,3 @@
+Interface     Plug                        Slot           Notes
+log-observe   grok-exporter:log-observe   :log-observe   manual
+network-bind  grok-exporter:network-bind  :network-bind  -

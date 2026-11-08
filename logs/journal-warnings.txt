@@ -1,0 +1,50 @@
+Nov 08 05:11:03 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:03 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:03 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:03 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:03 Tomal systemd[2221]: xdg-document-portal.service: Failed to kill control group /user.slice/user-60578.slice/user@60578.service/session.slice/xdg-document-portal.service, ignoring: Operation not permitted
+Nov 08 05:11:03 Tomal gnome-shell[2525]: Connection to xwayland lost
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:03 Tomal update-notifier[5656]: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:03 Tomal xdg-desktop-portal-gnome[6887]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-c[7150]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-c[7150]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-c[7150]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-c[7150]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-center-global-shortcuts-provider[7150]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal gnome-control-center-global-shortcuts-provider[7150]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal org.gnome.Nautilus[6912]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal org.gnome.Nautilus[6912]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal org.gnome.Nautilus[6912]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal org.gnome.Nautilus[6912]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:04 Tomal mutter-x11-frames[6820]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:04 Tomal snapd-desktop-integration[7195]: Failed to open display
+Nov 08 05:11:04 Tomal systemd[5025]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Failed with result 'exit-code'.
+Nov 08 05:11:05 Tomal systemd[2221]: mpris-proxy.service: Failed with result 'exit-code'.
+Nov 08 05:11:05 Tomal update-notifier[5656]: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+Nov 08 05:11:05 Tomal update-notifier[5656]: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+Nov 08 05:11:07 Tomal snapd-desktop-integration[7356]: Theme parser error: gtk.css:1:1: Error opening file /home/tanjim-ahmed-tomal/snap/snapd-desktop-integration/391/.config/gtk-4.0/gtk.css: Permission denied
+Nov 08 05:11:07 Tomal snapd-desktop-integration[7356]: Theme parser error: gtk.css:4611:21-28: Expected a valid color.
+Nov 08 05:11:07 Tomal snapd-desktop-integration[7356]: Theme parser error: gtk.css:4690:21-28: Expected a valid color.
+Nov 08 05:11:07 Tomal snapd-desktop-integration[7356]: Theme parser error: gtk.css:4820:21-28: Expected a valid color.
+Nov 08 05:11:14 Tomal gnome-text-editor[7389]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:14 Tomal gnome-text-editor[7389]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:15 Tomal gnome-text-editor[7389]: Theme parser error: gtk.css:8733:39-43: Expected a valid color.
+Nov 08 05:11:15 Tomal gnome-text-editor[7389]: Theme parser error: gtk.css:8760:49-53: Expected a valid color.
+Nov 08 05:11:15 Tomal gnome-text-editor[7389]: GtkImage 0x5e42b16121d0 reported baselines of minimum -2147483648 and natural -2147483648, but sizes of minimum 16 and natural 16. Baselines must be inside the widget size.
+Nov 08 05:11:15 Tomal gnome-text-editor[7389]: GtkImage 0x5e42b14b3370 reported baselines of minimum -2147483648 and natural -2147483648, but sizes of minimum 16 and natural 16. Baselines must be inside the widget size.
+Nov 08 05:14:23 Tomal kernel: warning: `ThreadPoolForeg' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+Nov 08 05:15:48 Tomal systemd[5025]: ubuntu-insights-collect.service: unit configures an IP firewall, but not running as root.
+Nov 08 05:15:48 Tomal systemd[5025]: ubuntu-insights-collect.service: (This warning is only shown for the first unit using IP firewalling.)
+Nov 08 05:17:02 Tomal kernel: set_capacity_and_notify: 32 callbacks suppressed
+Nov 08 05:17:02 Tomal localsearch-3[5861]: Could not add mark for path '/home/tanjim-ahmed-tomal/snap/code/278': Permission denied
+Nov 08 05:19:47 Tomal NetworkManager[1646]: ((../src/libnm-systemd-core/src/libsystemd/sd-event/sd-event.c:4488)): assertion '<dropped>' failed
+Nov 08 05:27:02 Tomal gnome-shell[5441]: Error in size change accounting.
+Nov 08 05:27:05 Tomal gnome-shell[5441]: Error in size change accounting.

@@ -1,0 +1,14 @@
+● snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter
+     Loaded: loaded (/etc/systemd/system/snap.grok-exporter.grok-exporter.service; enabled; preset: enabled)
+     Active: active (running) since Sun 2026-11-08 07:04:33 +06; 1min 38s ago
+ Invocation: 4b97c8c3ca644109899350f4ec90c32b
+   Main PID: 65395 (grok_exporter.w)
+      Tasks: 17 (limit: 5628)
+     Memory: 11.1M (peak: 16.4M)
+        CPU: 277ms
+     CGroup: /system.slice/snap.grok-exporter.grok-exporter.service
+             ├─65395 /bin/sh /snap/grok-exporter/3/bin/grok_exporter.wrapper
+             └─65436 /snap/grok-exporter/3/bin/grok_exporter -config /var/snap/grok-exporter/3/etc/config.yml
+
+Nov 08 07:04:33 Tomal systemd[1]: Started snap.grok-exporter.grok-exporter.service - Service for snap application grok-exporter.grok-exporter.
+Nov 08 07:04:34 Tomal grok-exporter.grok-exporter[65436]: Starting server on http://localhost:9144/metrics

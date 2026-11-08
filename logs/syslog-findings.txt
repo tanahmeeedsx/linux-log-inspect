@@ -1,0 +1,16 @@
+2026-11-08T05:26:57.924718+06:00 Tomal chrome-cadlkienfkclaiaibeoongdcgmdikeeg-Default.desktop[11570]: [11587:11587:0100/000000.924171:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+2026-11-08T05:26:57.926278+06:00 Tomal chrome-cadlkienfkclaiaibeoongdcgmdikeeg-Default.desktop[11570]: [1:1:0100/000000.925981:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+2026-11-08T05:27:01.768261+06:00 Tomal CRON[12126]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:27:02.767235+06:00 Tomal gnome-shell[5441]: Error in size change accounting.
+2026-11-08T05:27:05.286307+06:00 Tomal gnome-shell[5441]: Error in size change accounting.
+2026-11-08T05:28:01.783933+06:00 Tomal CRON[12851]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:28:28.562254+06:00 Tomal chrome-dhillkbagifeafebheeafeebndabndep-Default.desktop[10610]: [10604:10639:1108/052828.561621:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+2026-11-08T05:29:01.801755+06:00 Tomal CRON[13000]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:30:01.823044+06:00 Tomal CRON[13711]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:31:01.841022+06:00 Tomal CRON[13742]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:32:01.857519+06:00 Tomal CRON[13869]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:33:01.875214+06:00 Tomal CRON[14118]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:34:01.892319+06:00 Tomal CRON[14139]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:35:01.911002+06:00 Tomal CRON[14664]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:36:01.931827+06:00 Tomal CRON[14686]: (tanjim-ahmed-tomal) CMD (/home/tanjim-ahmed-tomal/Workspace/crontab/error-check.sh)
+2026-11-08T05:36:19.536137+06:00 Tomal chrome-dhillkbagifeafebheeafeebndabndep-Default.desktop[10610]: [10604:10639:1108/053619.535370:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT

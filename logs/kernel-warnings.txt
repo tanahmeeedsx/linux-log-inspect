@@ -1,0 +1,14 @@
+Nov 08 05:10:41 Tomal kernel: i8042: PNP: PS/2 appears to have AUX port disabled, if this is incorrect please boot with i8042.nopnp
+Nov 08 05:10:45 Tomal kernel: asus_armoury: No matching power limits found for this system
+Nov 08 05:10:45 Tomal kernel: asus_wmi: failed to register LPS0 sleep handler in asus-wmi
+Nov 08 05:10:45 Tomal kernel: asus_wmi: fan_curve_get_factory_default (0x00110024) failed: -19
+Nov 08 05:10:45 Tomal kernel: asus_wmi: fan_curve_get_factory_default (0x00110025) failed: -19
+Nov 08 05:10:45 Tomal kernel: asus_wmi: fan_curve_get_factory_default (0x00110032) failed: -19
+Nov 08 05:10:45 Tomal kernel: Bluetooth: hci0: HCI Enhanced Setup Synchronous Connection command is advertised, but not supported.
+Nov 08 05:10:48 Tomal kernel: kauditd_printk_skb: 194 callbacks suppressed
+Nov 08 05:10:48 Tomal kernel: amdgpu 0000:03:00.0: psp gfx command LOAD_TA(0x1) failed and response status is (0x7)
+Nov 08 05:10:49 Tomal kernel: nvme nvme0: using unchecked data buffer
+Nov 08 05:10:49 Tomal kernel: block nvme0n1: No UUID available providing old NGUID
+Nov 08 05:11:00 Tomal kernel: kauditd_printk_skb: 66 callbacks suppressed
+Nov 08 05:14:23 Tomal kernel: warning: `ThreadPoolForeg' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+Nov 08 05:17:02 Tomal kernel: set_capacity_and_notify: 32 callbacks suppressed

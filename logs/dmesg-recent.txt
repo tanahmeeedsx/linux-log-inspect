@@ -1,0 +1,14 @@
+[Sun Nov  8 05:10:41 2026] i8042: PNP: PS/2 appears to have AUX port disabled, if this is incorrect please boot with i8042.nopnp
+[Sun Nov  8 05:10:45 2026] asus_armoury: No matching power limits found for this system
+[Sun Nov  8 05:10:45 2026] asus_wmi: failed to register LPS0 sleep handler in asus-wmi
+[Sun Nov  8 05:10:45 2026] asus_wmi: fan_curve_get_factory_default (0x00110024) failed: -19
+[Sun Nov  8 05:10:45 2026] asus_wmi: fan_curve_get_factory_default (0x00110025) failed: -19
+[Sun Nov  8 05:10:45 2026] asus_wmi: fan_curve_get_factory_default (0x00110032) failed: -19
+[Sun Nov  8 05:10:45 2026] Bluetooth: hci0: HCI Enhanced Setup Synchronous Connection command is advertised, but not supported.
+[Sun Nov  8 05:10:48 2026] kauditd_printk_skb: 194 callbacks suppressed
+[Sun Nov  8 05:10:48 2026] amdgpu 0000:03:00.0: psp gfx command LOAD_TA(0x1) failed and response status is (0x7)
+[Sun Nov  8 05:10:49 2026] nvme nvme0: using unchecked data buffer
+[Sun Nov  8 05:10:49 2026] block nvme0n1: No UUID available providing old NGUID
+[Sun Nov  8 05:11:00 2026] kauditd_printk_skb: 66 callbacks suppressed
+[Sun Nov  8 05:14:23 2026] warning: `ThreadPoolForeg' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+[Sun Nov  8 05:17:02 2026] set_capacity_and_notify: 32 callbacks suppressed
